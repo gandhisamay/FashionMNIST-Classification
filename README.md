@@ -7,8 +7,10 @@ I made a convulational neural network to classify those images into various type
 The model has been trained using a gpu provided [**Google Colab**](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 # Accuracy 
-The model gives a high accuracy of **94.61 %** and **91.09 %** on the test dataset
+The model gives a high accuracy of **94.61 %** and **91.09 %** on the test dataset. I changed the learning rate many times while training the model to achieve this accuracy quickly.
+
+![](https://github.com/gandhisamay/FashionMNIST-Classification/blob/main/FashionMNISTloss.png)
 
 ## License
-Anyone is free to use to use the complete part of the model or part of it as per their choice
+Anyone is free to use to use the complete model or a part of it the model or part of it as per their choice
 
