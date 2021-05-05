@@ -12,5 +12,5 @@ The model gives a high accuracy of **94.61 %** and **91.09 %** on the test datas
 ![](https://github.com/gandhisamay/FashionMNIST-Classification/blob/main/FashionMNISTloss.png)
 
 ## License
-Anyone is free to use to use the complete model or a part of it the model or part of it as per their choice
+Everyone is free to use to use the complete model or a part of it the model or part of it as per their choice
 
